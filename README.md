@@ -9,3 +9,7 @@ https://github.com/Stormwindsky/TurboModsLoader
 # Storm World
 
 https://github.com/Stormwindsky/StormWorld
+
+# Rotten Smiley
+
+https://github.com/Stormwindsky/Rotten-Smiley-Wiki
