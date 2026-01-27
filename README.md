@@ -13,3 +13,7 @@ https://github.com/Stormwindsky/StormWorld
 # Rotten Smiley
 
 https://github.com/Stormwindsky/Rotten-Smiley-Wiki
+
+# Linux Community Gamejolt Rules
+
+https://github.com/Stormwindsky/Linux-Community-Gamejolt-Rules
