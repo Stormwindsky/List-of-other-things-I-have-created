@@ -3,6 +3,10 @@ A list for other creations I've made BUT I don't know where to put it (4 now or 
 
 ### ==============================
 
+## Mixed Small Scripts in one 🔀:
+
+https://github.com/Stormwindsky/Test-scripts-i-made
+
 
 ## TubroModsLoader 🚀:
 
