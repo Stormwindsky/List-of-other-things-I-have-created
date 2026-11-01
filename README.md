@@ -38,4 +38,8 @@ https://github.com/Stormwindsky/Stories-I-ve-written/
 
 https://github.com/Stormwindsky/Oranjo
 
+## Tux's Custom Assets 🐧:
+
+https://github.com/Stormwindsky/Tux-Custom-Assets
+
 ### ==============================
